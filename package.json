@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "sucesso_dinamica",
+  "description": "Aplicativo para calcular a probabilidade de vitória da dinâmica.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kessyus/sucesso_dinamica.git"
+  },
+  "author": "Kessyus Fófano dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kessyus/sucesso_dinamica/issues"
+  },
+  "homepage": "https://github.com/kessyus/sucesso_dinamica#readme"
+}
