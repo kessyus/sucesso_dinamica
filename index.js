@@ -47,7 +47,7 @@ let matrizJaOcorreu = []; // matriz com as respostas dos desafios que já fizemo
 let rodadas = 0;
 // questiona o usuário quais resultados já ocorreram
 for (let i=0; i<5; i++) {
-    console.log("Informe as respostas da " + (rodadas+1) + " rodada. Deixe vazio caso a rodada encerrou.");
+    console.log("Informe as respostas da " + (rodadas+1) + " rodada. Deixe vazio caso a rodada não encerrou.");
     let pontosCM = parseInt(readlineSync.question('CM: '));
     let pontosCP = parseInt(readlineSync.question('CP: '));
     let pontosCT = parseInt(readlineSync.question('CT: '));
