@@ -1,5 +1,5 @@
 # Sucesso na Dinâmica
-Aplicativo para calcular a probabilidade de vitória da dinâmica.
+Aplicativo para calcular a probabilidade de vitória da dinâmica de Soft Skills.
 
 ## Modo de uso
 1 - Clonar diretório:
