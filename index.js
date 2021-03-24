@@ -20,7 +20,7 @@ let matrizRespostas = [
 
 let contadorCasos = 0;
 let contadorSucesso = 0;
-let matrizSucesso = []; // matriz de todos os casos que terminaram com CM >= 100, CP >= 90 e CT >= 70.
+let matrizSucesso = []; // matriz de todos os casos que terminaram com CM >= 110, CP >= 90 e CT >= 70.
 
 for (let i = 0; i < 6; i++) {
   for (let j = 0; j < 6; j++) {
